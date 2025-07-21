@@ -128,8 +128,8 @@ data = {
     "Preference": Preference,
     "VendorCode": VendorCode,
     "ReceivedCondition": ReceivedCondition,
-    "DateCondition ": DateCondition,
-    "PathSupplierLetter ": PathSupplierLetter
+    "DateCondition": DateCondition,
+    "PathSupplierLetter": PathSupplierLetter
 }
 
 # Укажите путь, куда сохранить файл
